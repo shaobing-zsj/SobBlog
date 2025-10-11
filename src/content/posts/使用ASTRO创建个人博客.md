@@ -5,7 +5,7 @@ description: '一步步教学,如何创建博客'
 image: ''
 tags: []
 category: 'Blog'
-draft: true 
+draft: false 
 lang: 'zh-CN'
 ---
 
