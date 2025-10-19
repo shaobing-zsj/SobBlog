@@ -1,7 +1,7 @@
 ---
 title: js
 published: 2025-10-19
-description: 
+description: ''
 image: ''
 tags: []
 category: '前端'

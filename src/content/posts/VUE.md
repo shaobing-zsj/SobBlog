@@ -1,7 +1,7 @@
 ---
 title: vue+ajax
 published: 2025-10-19
-description: 
+description: ''
 image: ''
 tags: []
 category: '前端'
@@ -176,11 +176,11 @@ v-on
             createApp({
                 data(){
                     return{
-    				method:{
-    					handle(){
-    						alert();
-    					}
-    				}
+      			method:{
+      				handle(){
+      					alert();
+      				}
+      			}
                     };
                 }
             }).mount('#app');
